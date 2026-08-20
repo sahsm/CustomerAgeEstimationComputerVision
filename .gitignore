@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset
+data/
+datasets/
+faces/
+final_files/
+*.csv
